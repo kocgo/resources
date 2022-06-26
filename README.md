@@ -1,3 +1,6 @@
+## Closures
+https://mrale.ph/blog/2012/09/23/grokking-v8-closures-for-fun.html
+
 ## V8
 https://cabulous.medium.com/how-v8-javascript-engine-works-5393832d80a7
 
