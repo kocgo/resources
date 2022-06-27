@@ -1,5 +1,5 @@
 ## Closures
-https://mrale.ph/blog/2012/09/23/grokking-v8-closures-for-fun.html
+https://mrale.ph/blog/2012/09/23/grokking-v8-closures-for-fun.html  
 https://stackoverflow.com/questions/34722734/do-closures-keep-the-whole-execution-context-alive
 
 ## V8
