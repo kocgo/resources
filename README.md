@@ -1,6 +1,7 @@
 ## Closures
 https://mrale.ph/blog/2012/09/23/grokking-v8-closures-for-fun.html  
-https://stackoverflow.com/questions/34722734/do-closures-keep-the-whole-execution-context-alive
+https://stackoverflow.com/questions/34722734/do-closures-keep-the-whole-execution-context-alive  
+https://stackoverflow.com/questions/111102/how-do-javascript-closures-work
 
 ## V8
 https://cabulous.medium.com/how-v8-javascript-engine-works-5393832d80a7
