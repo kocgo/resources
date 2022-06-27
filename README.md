@@ -12,3 +12,6 @@ https://blog.insiderattack.net/javascript-event-loop-vs-node-js-event-loop-aea2b
 https://www.youtube.com/watch?v=cCOL7MC4Pl0  
 https://blog.logrocket.com/a-deep-dive-into-queues-in-node-js/  
 https://www.udemy.com/course/advanced-node-for-developers  
+
+# Browser Events
+https://stackoverflow.com/questions/282245/dom-event-precedence
