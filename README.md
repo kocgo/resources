@@ -19,3 +19,6 @@ https://stackoverflow.com/questions/282245/dom-event-precedence
 
 ## Primitives
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String#string_primitives_and_string_objects
+
+## Node JS Internals
+https://www.youtube.com/watch?v=OCjvhCFFPTw&t=219s
