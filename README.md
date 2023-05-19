@@ -27,3 +27,7 @@ https://www.youtube.com/watch?v=OCjvhCFFPTw&t=219s
 ## Product Tour
 https://github.com/elrumordelaluz/reactour  
 https://github.com/gilbarbara/react-joyride
+
+## Microfrontends
+https://spin.atomicobject.com/2022/07/19/typescript-federated-modules/
+
