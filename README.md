@@ -31,3 +31,5 @@ https://github.com/gilbarbara/react-joyride
 ## Microfrontends
 https://spin.atomicobject.com/2022/07/19/typescript-federated-modules/
 
+## React
+https://francodalessio.com/never-call-a-react-function-component/
